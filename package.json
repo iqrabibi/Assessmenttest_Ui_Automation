@@ -1,0 +1,27 @@
+{
+  "name": "assessmenttest_ui_automation",
+  "version": "1.0.0",
+  "description": "This repository will have UI code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runTask" : "npx cypress run --headed --browser electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqrabibi/Assessmenttest_Ui_Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqrabibi/Assessmenttest_Ui_Automation/issues"
+  },
+  "homepage": "https://github.com/iqrabibi/Assessmenttest_Ui_Automation#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "cypress": "^12.1.0",
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "cypress-xpath": "^2.0.1"
+  }
+}
