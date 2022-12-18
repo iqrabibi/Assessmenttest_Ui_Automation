@@ -30,7 +30,8 @@ Once we execute the test case following folders will automatically generate:
 * cypress/reports : generate HTML report after execution.
 
 ## Execution:
-For test case execution , run below commands 
+For test case execution , run below commands
+
     git clone https://github.com/iqrabibi/Assessmenttest_Ui_Automation.git
     Open the cloned project in any IDE
     Run >  npm install
